@@ -1,0 +1,28 @@
+{
+  "name": "KOTONOHA — Japans leren",
+  "short_name": "KOTONOHA",
+  "description": "Een rustige Japanse leerwereld voor kana, kanji, JLPT en gesprek.",
+  "lang": "nl",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#fcf8ed",
+  "theme_color": "#1f3b30",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "assets/kotonoha-app-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "kotonoha-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

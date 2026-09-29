@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1f3b30"/>
+  <rect x="116" y="68" width="280" height="376" rx="40" fill="#c7401a"/>
+  <path d="M151 105h210v302H151z" fill="none" stroke="#fad17a" stroke-width="8" opacity=".72"/>
+  <text x="256" y="206" text-anchor="middle" fill="#fffdf8" font-family="serif" font-size="100" font-weight="700">言</text>
+  <text x="256" y="310" text-anchor="middle" fill="#fffdf8" font-family="serif" font-size="90" font-weight="700">の</text>
+  <text x="256" y="405" text-anchor="middle" fill="#fffdf8" font-family="serif" font-size="94" font-weight="700">葉</text>
+</svg>
